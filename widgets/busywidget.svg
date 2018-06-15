@@ -65,7 +65,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="1.7882571"
-     inkscape:cx="53.046133"
+     inkscape:cx="-45.653321"
      inkscape:cy="76.801617"
      inkscape:current-layer="svg2"
      inkscape:window-x="194"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,12 +127,12 @@
        sodipodi:cx="63.227539"
        sodipodi:type="arc"
        class="ColorScheme-ViewHover"
-       style="color:#3daee9;fill:none;fill-opacity:1;stroke:#66cc35;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#3daee9;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="XXY" />
     <path
        transform="scale(1,-1)"
        id="XXX"
-       style="color:#3daee9;fill:none;fill-opacity:1;stroke:#66cc35;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#3daee9;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-ViewHover"
        sodipodi:type="arc"
        sodipodi:cx="63.227539"
