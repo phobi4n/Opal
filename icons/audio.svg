@@ -26,7 +26,7 @@
        id="lineslo"
        osb:paint="solid">
       <stop
-         style="stop-color:#cccccc;stop-opacity:0.44090909;"
+         style="stop-color:#cccccc;stop-opacity:0.43946189;"
          offset="0"
          id="stop864" />
     </linearGradient>
@@ -34,7 +34,7 @@
        id="lineshi"
        osb:paint="solid">
       <stop
-         style="stop-color:#cccccc;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop854" />
     </linearGradient>
@@ -42,7 +42,7 @@
        id="speaker"
        osb:paint="solid">
       <stop
-         style="stop-color:#cccccc;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.90980393;"
          offset="0"
          id="stop842" />
     </linearGradient>
@@ -215,9 +215,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.340909"
-     inkscape:cx="29.218868"
-     inkscape:cy="18.168372"
+     inkscape:zoom="13.007846"
+     inkscape:cx="34.189343"
+     inkscape:cy="16.779301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -236,7 +236,8 @@
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5">
+     fit-margin-bottom="5"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid3780"
@@ -265,7 +266,8 @@
      id="layer1"
      transform="translate(-209.53572,-399.50504)">
     <g
-       id="audio-volume-high">
+       id="audio-volume-high"
+       transform="translate(-2.6376019,-1.5585831)">
       <rect
          y="404.50504"
          x="214.53572"
