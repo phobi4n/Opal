@@ -3,7 +3,7 @@ ForegroundNormal=255,255,255
 
 [Colors:Button]
 ForegroundNormal=255,255,255
-BackgroundNormal=255,9,9
+BackgroundNormal=80,80,80
 
 [Colors:View]
 ForegroundNormal=255,255,255

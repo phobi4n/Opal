@@ -21,6 +21,22 @@
   <defs
      id="defs2">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient927">
+      <stop
+         style="stop-color:#ce4e4e;stop-opacity:1;"
+         offset="0"
+         id="stop923" />
+      <stop
+         id="stop931"
+         offset="0.88846725"
+         style="stop-color:#070707;stop-opacity:0.47247708" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop925" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient1236"
        osb:paint="solid">
       <stop
@@ -51,34 +67,6 @@
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop1871" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1827">
-      <stop
-         style="stop-color:#060606;stop-opacity:0"
-         offset="0"
-         id="stop1823" />
-      <stop
-         id="stop1839"
-         offset="0.93533885"
-         style="stop-color:#090909;stop-opacity:0.02242152" />
-      <stop
-         id="stop1837"
-         offset="0.94391119"
-         style="stop-color:#090909;stop-opacity:0.02745098;" />
-      <stop
-         id="stop1835"
-         offset="0.94391119"
-         style="stop-color:#090909;stop-opacity:0" />
-      <stop
-         id="stop1833"
-         offset="0.94391119"
-         style="stop-color:#000000;stop-opacity:0.9955157" />
-      <stop
-         style="stop-color:#151515;stop-opacity:0"
-         offset="1"
-         id="stop1825" />
     </linearGradient>
     <linearGradient
        id="linearGradient1161"
@@ -161,7 +149,7 @@
        x2="-27.514669"
        y2="254.32941"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.74261726,0,0,3.9728089,-7.353264,-735.8427)" />
+       gradientTransform="matrix(0.74261726,0,0,3.0760637,-7.353264,-514.79438)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#bright"
@@ -171,7 +159,7 @@
        x2="-35.95882"
        y2="230.94241"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.70003722,0,0,0.70003722,-111.33906,110.47136)" />
+       gradientTransform="matrix(0.52862317,0,0,0.52862317,-117.70699,150.05814)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#bright"
@@ -181,17 +169,7 @@
        x2="-50.111385"
        y2="264.15085"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.25556293,0,0,0.74621902,-39.296072,62.017184)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1827"
-       id="radialGradient1829"
-       cx="-201.13266"
-       cy="283.31595"
-       fx="-201.13266"
-       fy="283.31595"
-       r="20.168556"
-       gradientUnits="userSpaceOnUse" />
+       gradientTransform="matrix(0.25556293,0,0,0.49331309,-39.296072,123.82053)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#lowtic"
@@ -342,6 +320,67 @@
        y1="289.63202"
        x2="-186.96581"
        y2="289.63202" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#bright"
+       id="linearGradient3876"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.10782718,0.40330488)"
+       x1="-199.30739"
+       y1="270.75"
+       x2="-195.32831"
+       y2="270.75" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#bright"
+       id="linearGradient3878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.10782718,0.40330488)"
+       x1="-199.30739"
+       y1="270.75"
+       x2="-195.32831"
+       y2="270.75" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#bright"
+       id="linearGradient3880"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.6856398,-2.8274253)"
+       x1="-189.33636"
+       y1="289.63202"
+       x2="-186.96581"
+       y2="289.63202" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#bright"
+       id="linearGradient3882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.7539266,14.111028)"
+       x1="-189.33636"
+       y1="289.63202"
+       x2="-186.96581"
+       y2="289.63202" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#bright"
+       id="linearGradient3884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-25.108101,-2.7913923)"
+       x1="-189.33636"
+       y1="289.63202"
+       x2="-186.96581"
+       y2="289.63202" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient927"
+       id="radialGradient929"
+       cx="-197.32953"
+       cy="287.1983"
+       fx="-197.32953"
+       fy="287.1983"
+       r="21.080795"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0446073,0,0,1.0446073,8.8023359,-12.811139)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -350,9 +389,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5478105"
-     inkscape:cx="182.24338"
-     inkscape:cy="133.10838"
+     inkscape:zoom="10.034724"
+     inkscape:cx="327.89268"
+     inkscape:cy="148.24768"
      inkscape:document-units="px"
      inkscape:current-layer="g4510"
      showgrid="false"
@@ -423,10 +462,10 @@
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21923909;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          rx="0.11292334"
-         ry="0.26846507"
+         ry="0.21544771"
          y="243.82642"
          x="-125.01723"
-         height="17.748825"
+         height="14.243729"
          width="0.31098714"
          id="rect1857"
          class="ColorScheme-Text"
@@ -443,15 +482,15 @@
          id="rect4928"
          style="opacity:1;fill:none;fill-opacity:0.17727272;fill-rule:nonzero;stroke:none;stroke-width:0.59190357;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         ry="0.95560014"
-         y="244.37285"
+         ry="0.63173574"
+         y="244.37286"
          x="-53.469898"
-         height="29.517454"
+         height="19.513502"
          width="1.3672115"
          id="rect1271"
          class="ColorScheme-Text"
          style="opacity:1;fill:url(#linearGradient1163);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.43062615;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         rx="0.53612393" />
+         rx="0.68360573" />
     </g>
     <g
        id="MinuteHand"
@@ -468,10 +507,10 @@
          class="ColorScheme-Text"
          id="rect934"
          width="1.566489"
-         height="62.204178"
+         height="48.163406"
          x="-29.352623"
          y="243.45749"
-         ry="1.2667763"
+         ry="0.98083872"
          rx="0.56881183" />
     </g>
     <g
@@ -487,48 +526,56 @@
          id="rect1847"
          style="opacity:1;fill:none;fill-opacity:0.66367714;fill-rule:evenodd;stroke:none;stroke-width:0.32183546;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <circle
-         r="0.83348173"
+         r="0.62939191"
          cy="272.13968"
          cx="-137.34505"
          id="circle1853"
-         style="opacity:1;fill:url(#linearGradient960);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.22593307;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.64573993" />
+         style="opacity:1;fill:url(#linearGradient960);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.22593306;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.64573993" />
     </g>
     <g
        id="ClockFace">
-      <g
-         transform="translate(3.8031128,3.8823443)"
-         id="g4883">
-        <circle
-           r="20.168556"
-           cy="283.31595"
-           cx="-201.13266"
-           id="circle1821"
-           style="opacity:1;fill:url(#radialGradient1829);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62912351;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-        <circle
-           style="opacity:1;fill:#010101;fill-opacity:0.55605379;fill-rule:evenodd;stroke:none;stroke-width:0.59854037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-           id="circle1845"
-           cx="-201.13266"
-           cy="283.31595"
-           r="13.245752" />
-      </g>
       <circle
-         r="16.377275"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient929);stroke-width:2.03729177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle911"
+         cx="-197.32953"
+         cy="287.1983"
+         r="20.957067" />
+      <circle
+         r="19.941084"
          cy="287.1983"
          cx="-197.32954"
-         id="path1061"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.4979167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+         id="path3907"
+         style="opacity:1;fill:#202020;fill-opacity:0.47247709;fill-rule:evenodd;stroke:none;stroke-width:0.87312508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8699552;paint-order:normal" />
+      <g
+         transform="translate(0.52916667,0.52916667)"
+         id="g4043"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:6.61458349px;font-family:'Sinkin Sans';-inkscape-font-specification:'Sinkin Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.156;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         aria-label="12">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4039"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:#000000;fill-opacity:0.156;stroke-width:0.26458335px"
+           d="m -199.44055,272.51825 q -0.0169,-0.21449 -0.0169,-0.41204 0,-0.1016 0.15804,-0.13547 0.16369,-0.0395 0.56445,-0.0395 l 0.0508,-2.16182 q -0.18627,0.006 -0.34432,0.0339 -0.1524,0.0226 -0.19755,0.0339 -0.096,-0.16933 -0.096,-0.38382 0,-0.0621 0.21449,-0.13547 0.22014,-0.0734 0.50236,-0.12982 0.28222,-0.0565 0.42898,-0.0565 0.0451,0 0.0959,0.0113 0.0508,0.006 0.0677,0.0226 l -0.0677,2.76578 h 0.31609 q 0.10724,0 0.20884,-0.006 0.10725,-0.0113 0.13547,-0.0169 0,0.27658 -0.006,0.39511 -0.006,0.11289 -0.0339,0.16369 -0.0282,0.0508 -0.096,0.0508 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4041"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:#000000;fill-opacity:0.156;stroke-width:0.26458335px"
+           d="m -197.16928,272.51825 q -0.0226,-0.0677 -0.0226,-0.17498 0,-0.1524 0.0226,-0.24271 0.0282,-0.0903 0.12418,-0.254 0.19755,-0.34431 0.60395,-0.86924 0.26529,-0.33867 0.38947,-0.54751 0.12418,-0.20885 0.12418,-0.39512 0,-0.14675 -0.0903,-0.22577 -0.0903,-0.079 -0.24271,-0.079 -0.16369,0 -0.38947,0.0508 -0.22578,0.0508 -0.3556,0.12418 -0.079,-0.17498 -0.079,-0.4572 0,-0.12982 0.31044,-0.22013 0.31609,-0.096 0.70556,-0.096 0.46284,0 0.6604,0.19756 0.2032,0.19755 0.2032,0.59831 0,0.3048 -0.1524,0.57573 -0.14676,0.26529 -0.47414,0.68863 -0.3556,0.46284 -0.52493,0.73942 h 0.42898 q 0.28787,0 0.52493,-0.0282 0.24271,-0.0282 0.24271,-0.0339 0,0.29351 -0.0113,0.41769 -0.006,0.12418 -0.0339,0.18062 -0.0282,0.0508 -0.096,0.0508 z" />
+      </g>
       <g
          aria-label="12"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:6.61458349px;font-family:'Sinkin Sans';-inkscape-font-specification:'Sinkin Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient972);fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text996">
         <path
            d="m -199.44055,272.51825 q -0.0169,-0.21449 -0.0169,-0.41204 0,-0.1016 0.15804,-0.13547 0.16369,-0.0395 0.56445,-0.0395 l 0.0508,-2.16182 q -0.18627,0.006 -0.34432,0.0339 -0.1524,0.0226 -0.19755,0.0339 -0.096,-0.16933 -0.096,-0.38382 0,-0.0621 0.21449,-0.13547 0.22014,-0.0734 0.50236,-0.12982 0.28222,-0.0565 0.42898,-0.0565 0.0451,0 0.0959,0.0113 0.0508,0.006 0.0677,0.0226 l -0.0677,2.76578 h 0.31609 q 0.10724,0 0.20884,-0.006 0.10725,-0.0113 0.13547,-0.0169 0,0.27658 -0.006,0.39511 -0.006,0.11289 -0.0339,0.16369 -0.0282,0.0508 -0.096,0.0508 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient972);fill-opacity:1;stroke-width:0.26458335px"
-           id="path1050" />
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient3876);fill-opacity:1;stroke-width:0.26458335px"
+           id="path1050"
+           inkscape:connector-curvature="0" />
         <path
            d="m -197.16928,272.51825 q -0.0226,-0.0677 -0.0226,-0.17498 0,-0.1524 0.0226,-0.24271 0.0282,-0.0903 0.12418,-0.254 0.19755,-0.34431 0.60395,-0.86924 0.26529,-0.33867 0.38947,-0.54751 0.12418,-0.20885 0.12418,-0.39512 0,-0.14675 -0.0903,-0.22577 -0.0903,-0.079 -0.24271,-0.079 -0.16369,0 -0.38947,0.0508 -0.22578,0.0508 -0.3556,0.12418 -0.079,-0.17498 -0.079,-0.4572 0,-0.12982 0.31044,-0.22013 0.31609,-0.096 0.70556,-0.096 0.46284,0 0.6604,0.19756 0.2032,0.19755 0.2032,0.59831 0,0.3048 -0.1524,0.57573 -0.14676,0.26529 -0.47414,0.68863 -0.3556,0.46284 -0.52493,0.73942 h 0.42898 q 0.28787,0 0.52493,-0.0282 0.24271,-0.0282 0.24271,-0.0339 0,0.29351 -0.0113,0.41769 -0.006,0.12418 -0.0339,0.18062 -0.0282,0.0508 -0.096,0.0508 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient972);fill-opacity:1;stroke-width:0.26458335px"
-           id="path1052" />
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient3878);fill-opacity:1;stroke-width:0.26458335px"
+           id="path1052"
+           inkscape:connector-curvature="0" />
       </g>
       <circle
          transform="rotate(30)"
@@ -608,8 +655,9 @@
          id="text1232">
         <path
            d="m -181.22544,289.16683 q -0.58137,0 -0.58137,-0.3048 0,-0.18062 0.0339,-0.3048 0.0395,-0.12418 0.0452,-0.1524 0.079,0.079 0.21449,0.12418 0.14111,0.0395 0.28786,0.0395 0.29916,0 0.44592,-0.20884 0.1524,-0.20885 0.1524,-0.57574 0,-0.29351 -0.24272,-0.41204 -0.23706,-0.12418 -0.62088,-0.10725 l -0.006,-0.37817 q 0.34431,-0.13547 0.51929,-0.34432 0.18062,-0.20884 0.18062,-0.42897 0,-0.14676 -0.0564,-0.22014 -0.0564,-0.079 -0.23707,-0.079 -0.16369,0 -0.34995,0.0508 -0.18627,0.0452 -0.32174,0.12418 -0.079,-0.17498 -0.079,-0.4572 0,-0.13547 0.27093,-0.22578 0.27658,-0.0903 0.7112,-0.0903 0.40076,0 0.59267,0.18627 0.19191,0.18626 0.19191,0.49671 0,0.33302 -0.1524,0.58702 -0.14675,0.254 -0.39511,0.42898 0.31044,0.0339 0.49107,0.24835 0.18626,0.20885 0.18626,0.58703 0,0.72248 -0.3556,1.0668 -0.3556,0.34995 -0.92569,0.34995 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient991);fill-opacity:1;stroke-width:0.26458335px"
-           id="path1055" />
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient3880);fill-opacity:1;stroke-width:0.26458335px"
+           id="path1055"
+           inkscape:connector-curvature="0" />
       </g>
       <g
          aria-label="6"
@@ -617,8 +665,9 @@
          id="text1258">
         <path
            d="m -197.07797,303.05166 q 0.36124,0 0.56444,0.26529 0.2032,0.26529 0.2032,0.82974 0,0.73942 -0.27093,1.08937 -0.27094,0.34996 -0.79022,0.34996 -0.43463,0 -0.64347,-0.20885 -0.20885,-0.21448 -0.27093,-0.59266 -0.0565,-0.37818 -0.0565,-1.06116 0,-1.17969 0.32738,-1.66511 0.33302,-0.48542 0.94262,-0.48542 0.6096,0 0.6096,0.22578 0,0.24271 -0.0621,0.44026 -0.0959,-0.0339 -0.23142,-0.0564 -0.13547,-0.0226 -0.23142,-0.0226 -0.36689,0 -0.55316,0.27658 -0.18626,0.27658 -0.20884,0.92004 0.12418,-0.15804 0.27658,-0.23142 0.15804,-0.0734 0.39511,-0.0734 z m -0.25965,1.9812 q 0.19191,0 0.29916,-0.22013 0.11289,-0.22578 0.11289,-0.53622 0,-0.3048 -0.0903,-0.47414 -0.0847,-0.17497 -0.25965,-0.17497 -0.24835,0 -0.46849,0.27657 0.006,0.0226 0.006,0.0677 -0.0169,0.62653 0.096,0.84666 0.11854,0.21449 0.3048,0.21449 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient1016);fill-opacity:1;stroke-width:0.26458335px"
-           id="path1058" />
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient3882);fill-opacity:1;stroke-width:0.26458335px"
+           id="path1058"
+           inkscape:connector-curvature="0" />
       </g>
       <g
          aria-label="9"
@@ -626,8 +675,9 @@
          id="text1278">
         <path
            d="m -213.65791,285.20096 q 0.41205,0 0.6096,0.1524 0.2032,0.1524 0.27658,0.52493 0.079,0.37254 0.096,1.13454 -0.0113,1.14018 -0.33867,1.6764 -0.32738,0.53622 -1.0668,0.53622 -0.54187,0 -0.54187,-0.24271 0,-0.0847 0.0169,-0.20885 0.0169,-0.11853 0.0395,-0.2032 0.20884,0.0621 0.40075,0.0621 0.4572,0 0.64911,-0.3048 0.19191,-0.31044 0.22578,-0.85231 -0.11853,0.1524 -0.27093,0.22578 -0.14676,0.0677 -0.38382,0.0677 -0.34432,0 -0.5588,-0.31044 -0.21449,-0.31045 -0.21449,-0.84667 0,-0.72813 0.27093,-1.0668 0.27093,-0.34431 0.79022,-0.34431 z m -0.096,1.99249 q 0.27657,0 0.47977,-0.26529 v -0.0339 q 0,-0.44591 -0.0339,-0.68862 -0.0282,-0.24271 -0.11289,-0.34431 -0.079,-0.10724 -0.22578,-0.10724 -0.2032,0 -0.33302,0.2032 -0.12418,0.19755 -0.12418,0.58702 0,0.3048 0.0903,0.47978 0.0903,0.16933 0.25965,0.16933 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient1048);fill-opacity:1;stroke-width:0.26458335px"
-           id="path1062" />
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:url(#linearGradient3884);fill-opacity:1;stroke-width:0.26458335px"
+           id="path1062"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>
