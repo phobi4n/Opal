@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg827"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bookmarks.svg">
+  <defs
+     id="defs821" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="341.27288"
+     inkscape:cy="359.91155"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="bookmarks">
+      <rect
+         y="755.09106"
+         x="324"
+         height="32"
+         width="32"
+         id="rect896"
+         style="opacity:1;fill:none;fill-opacity:0.06224066;fill-rule:nonzero;stroke:none;stroke-width:3.90169597;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.82352941;image-rendering:optimizeSpeed" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path886"
+         d="m 333.13309,756.24897 c -1.47404,0.0151 -2.65673,1.4476 -2.66787,3.23242 h 18.61147 c -0.0112,-1.78482 -1.19382,-3.21739 -2.66787,-3.23242 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3526971;fill-rule:nonzero;stroke:none;stroke-width:3.89617491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.82352941;image-rendering:optimizeSpeed" />
+      <path
+         id="path945"
+         d="m 346.57227,755.87109 v 0.0488 c -0.081,-0.006 -0.15922,-0.0215 -0.24219,-0.0215 h -13.14649 c -0.0823,0 -0.15986,0.0153 -0.24023,0.0215 -1.39793,0.0881 -2.49805,1.07747 -2.49805,2.30469 v 27.44141 c 0,0.22395 0.0493,0.43668 0.11914,0.64062 h 0.10352 l 2.27539,-1.53906 v -0.0508 l 6.81445,-4.63086 6.81446,4.63086 2.27343,1.53906 h 0.10352 c 0.0698,-0.20394 0.11914,-0.41472 0.11914,-0.63867 v -27.44336 c 0,-1.22723 -1.09817,-2.21459 -2.49609,-2.30274 z"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.96;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeSpeed"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="-0.27996106"
+         inkscape:transform-center-x="0.01614682"
+         d="m 343.68562,776.42768 -3.88508,-2.59115 -3.84211,2.65444 1.26378,-4.49564 -3.7118,-2.8338 4.66613,-0.18731 1.5481,-4.40582 1.62005,4.37988 4.66858,0.11085 -3.66489,2.89422 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5626066"
+         sodipodi:arg1="0.93428811"
+         sodipodi:r2="2.6950779"
+         sodipodi:r1="6.5733609"
+         sodipodi:cy="771.14154"
+         sodipodi:cx="339.77847"
+         sodipodi:sides="5"
+         id="path883"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.58921162;fill-rule:nonzero;stroke:none;stroke-width:1.32175577;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeSpeed"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
